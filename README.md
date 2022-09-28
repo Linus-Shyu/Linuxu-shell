@@ -2,7 +2,7 @@
 
 ### 项目简介
 
-这是由Linus开发的一个假shell你可以理解为一个沙盒，以后的打算是使用python书写GUI，用Linuxu-Shell来搭配使用。
+这是由Linus Shyu开发的一个假shell你可以理解为一个沙盒，以后的打算是使用python书写GUI，用Linuxu-Shell来搭配使用。
 
 ### 启动方法
 
